@@ -1,1 +1,1 @@
-# react-native-soundboard
+# A simple React Native sound board app mini-project using Expo
